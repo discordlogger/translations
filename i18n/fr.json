@@ -1,0 +1,33 @@
+{
+  "common": {
+    "search": "Rechercher",
+    "searching": "Recherche en cours...",
+    "comingSoon": "Bientôt disponible !",
+    "footer": {
+      "disclaimer": "DiscordTracker n'est pas affilié, associé, autorisé, approuvé ou officiellement lié à Discord Inc., ou à l'une de ses filiales ou sociétés affiliées."
+    }
+  },
+  "nav": {
+    "userLookup": "User Lookup",
+    "guildLookup": "Guild Lookup",
+    "applicationLookup": "Application Lookup",
+    "prevnamesLookup": "Prevnames Lookup"
+  },
+  "userLookup": {
+    "inputPlaceholder": "Veuillez saisir l'ID d'un utilisateur",
+    "inputError": "Veuillez entrer un ID Discord",
+    "historyTitle": "Historique des pseudos"
+  },
+  "guildLookup": {
+    "title": "Recherche Serveur",
+    "description": "Recherchez et suivez les serveurs Discord en utilisant leur ID. Consultez les informations détaillées sur les serveurs, y compris le nombre de membres, la date de création, et plus encore."
+  },
+  "applicationLookup": {
+    "title": "Recherche Application",
+    "description": "Recherchez des applications et des bots Discord. Obtenez des informations détaillées sur le statut de vérification, les permissions et la présence sur les serveurs."
+  },
+  "prevnamesLookup": {
+    "title": "Historique Pseudos",
+    "description": "Suivez l'historique et les changements de pseudos sur Discord. Voyez quand et à quelle fréquence les utilisateurs changent leurs noms, et conservez un historique complet."
+  }
+}

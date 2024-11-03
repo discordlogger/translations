@@ -1,0 +1,33 @@
+{
+  "common": {
+    "search": "Suche",
+    "searching": "Suche...",
+    "comingSoon": "Demnächst!",
+    "footer": {
+      "disclaimer": "DiscordTracker ist nicht mit Discord Inc. oder einer ihrer Tochtergesellschaften oder Affiliates verbunden, assoziiert, autorisiert oder endorsed."
+    }
+  },
+  "nav": {
+    "userLookup": "User Lookup",
+    "guildLookup": "Guild Lookup",
+    "applicationLookup": "Application Lookup",
+    "prevnamesLookup": "Prevnames Lookup"
+  },
+  "userLookup": {
+    "inputPlaceholder": "Geben Sie die Discord Benutzer-ID ein",
+    "inputError": "Bitte geben Sie eine Discord Benutzer-ID ein",
+    "historyTitle": "Benutzername Verlauf"
+  },
+  "guildLookup": {
+    "title": "Guild-Suche",
+    "description": "Durchsuchen und verfolgen Sie Discord-Server mit ihrer Guild-ID. Sehen Sie detaillierte Informationen über Server, einschließlich Mitgliederzahl, Erstellungsdatum und mehr."
+  },
+  "applicationLookup": {
+    "title": "Anwendungs-Suche",
+    "description": "Suchen Sie nach Discord-Anwendungen und -Bots. Erhalten Sie detaillierte Informationen über den verifizierten Status, Berechtigungen und die Präsenz auf Servern."
+  },
+  "prevnamesLookup": {
+    "title": "Frühere Namen Suche",
+    "description": "Verfolgen Sie den Benutzernamenverlauf und Änderungen in Discord. Sehen Sie, wann und wie oft Benutzer ihre Namen ändern und führen Sie einen umfassenden Verlauf."
+  }
+}
